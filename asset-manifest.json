@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shazeb16180.github.io/csb-001lv/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://shazeb16180.github.io/csb-001lv/static/js/main.63de6314.chunk.js",
+    "main.js.map": "https://shazeb16180.github.io/csb-001lv/static/js/main.63de6314.chunk.js.map",
+    "runtime-main.js": "https://shazeb16180.github.io/csb-001lv/static/js/runtime-main.5b815b0c.js",
+    "runtime-main.js.map": "https://shazeb16180.github.io/csb-001lv/static/js/runtime-main.5b815b0c.js.map",
+    "static/js/2.fa57b3a3.chunk.js": "https://shazeb16180.github.io/csb-001lv/static/js/2.fa57b3a3.chunk.js",
+    "static/js/2.fa57b3a3.chunk.js.map": "https://shazeb16180.github.io/csb-001lv/static/js/2.fa57b3a3.chunk.js.map",
+    "index.html": "https://shazeb16180.github.io/csb-001lv/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://shazeb16180.github.io/csb-001lv/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fa57b3a3.chunk.js.LICENSE.txt": "https://shazeb16180.github.io/csb-001lv/static/js/2.fa57b3a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b815b0c.js",
+    "static/js/2.fa57b3a3.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.63de6314.chunk.js"
+  ]
+}
